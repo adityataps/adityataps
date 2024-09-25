@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **adityataps/adityataps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello! I'm Aditya. 
+### You can call me Adi. 
+
+I'm a software engineer. 
+
+About me:
+- 🛠️ Proficient in with Data, ML, Full-Stack, and Cloud Architecture engineering
+- 🌱 Working toward my AWS associate-level certifications
+- ⚡️ Always eager to work on cutting-edge tech and architecting software and systems from scratch
+- 🐈‍⬛ Proud cat dad of two cute kitties (Sylvie and Angie)
+- ☕️ Espresso junkie
+- 👾 Avid gamer
+
+Reach me at aditya (at) tapshalkar.com
+
+https://tapshalkar.xyz/
