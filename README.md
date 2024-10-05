@@ -29,3 +29,7 @@ About me:
 Reach me at aditya (at) tapshalkar.com
 
 https://tapshalkar.xyz/
+
+Also on GitHub as 
+- [@atapshalkar-eightfold](https://github.com/atapshalkar-eightfold)
+- [@adi-apptega](https://github.com/adi-apptega)
