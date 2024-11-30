@@ -30,6 +30,8 @@ Reach me at aditya (at) tapshalkar.com
 
 https://tapshalkar.xyz/
 
+https://adityahome.notion.site/
+
 Also on GitHub as 
 - [@atapshalkar-eightfold](https://github.com/atapshalkar-eightfold)
 - [@adi-apptega](https://github.com/adi-apptega)
