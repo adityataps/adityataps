@@ -35,3 +35,4 @@ https://adityahome.notion.site/
 Also on GitHub as 
 - [@atapshalkar-eightfold](https://github.com/atapshalkar-eightfold)
 - [@adi-apptega](https://github.com/adi-apptega)
+- [@Aditya-Tapshalkar (Global Payments)](https://github.globalpay.com/Aditya-Tapshalkar)
