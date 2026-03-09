@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 I'm a software engineer. 
 
 About me:
-- 🛠️ Proficient in with Data, ML, Full-Stack, and Cloud Architecture engineering
-- 🌱 Working toward my AWS associate-level certifications
+- 🛠️ Proficient in with Data, ML, Cloud Architecture, and Full-Stack engineering
+- 🌱 [GCP PMLE](https://www.credly.com/badges/3eefdad4-d46f-4987-8cb1-8b48b3617c70) and [AWS Cloud](https://cp.certmetrics.com/amazon/en/public/verify/credential/63ce69a0724442d4b3abf45da5673580) Practitioner certified
 - ⚡️ Always eager to work on cutting-edge tech and architecting software and systems from scratch
 - 🐈‍⬛ Proud cat dad of two cute kitties (Sylvie and Angie)
-- ☕️ Espresso junkie
+- ☕️ Caffeine junkie
 - 👾 Avid gamer
 
 Reach me at aditya (at) tapshalkar.com
