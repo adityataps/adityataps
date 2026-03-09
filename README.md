@@ -36,3 +36,6 @@ Also on GitHub as
 - [@atapshalkar-eightfold](https://github.com/atapshalkar-eightfold)
 - [@adi-apptega](https://github.com/adi-apptega)
 - [@Aditya-Tapshalkar (Global Payments)](https://github.globalpay.com/Aditya-Tapshalkar)
+
+GitHub Highlights:
+- [NVIDIA GPU setup for Immich transcoding and ML](https://github.com/community-scripts/ProxmoxVE/discussions/8193#discussion-8998596)
