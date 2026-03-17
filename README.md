@@ -38,5 +38,5 @@ Also on GitHub as
 - [@Aditya-Tapshalkar (Global Payments)](https://github.globalpay.com/Aditya-Tapshalkar)
 - [@Aditya-Tapshalkar_glpay (Global Payments)](https://github.com/aditya-tapshalkar_glpay)
 
-GitHub Highlights:
+GitHub Open-Source Highlights:
 - [NVIDIA GPU setup for Immich transcoding and ML](https://github.com/community-scripts/ProxmoxVE/discussions/8193#discussion-8998596)
