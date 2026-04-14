@@ -28,7 +28,7 @@ About me:
 
 Reach me at aditya (at) tapshalkar.com
 
-~~https://tapshalkar.xyz/~~ (⚠️ Under maintenance!)
+https://aditya.tapshalkar.com/
 
 https://adityahome.notion.site/
 
