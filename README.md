@@ -7,7 +7,7 @@ AI/ML software engineer · Atlanta
 - 🎓 Georgia Tech M.S. in Computer Science, specializing in Machine Learning
 - 📜 [Google Cloud Professional ML Engineer](https://www.credly.com/badges/3eefdad4-d46f-4987-8cb1-8b48b3617c70) · [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/63ce69a0724442d4b3abf45da5673580)
 - 🖥️ Homelab tinkerer — Proxmox VE, Unraid, containers, and networking
-- 🐈‍⬛ Cat dad to Sylvie & Angie · ☕ Coffee enthusiast · 🎮 Gamer
+- 🐈‍⬛ Cat dad · ☕ Coffee enthusiast · 🎮 Gamer
 
 ## Projects & open source
 
