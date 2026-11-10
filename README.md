@@ -1,42 +1,29 @@
-<!--
-**adityataps/adityataps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aditya — call me Adi 👋
 
-Here are some ideas to get you started:
+AI/ML software engineer · Atlanta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Building GenAI/ML systems, data platforms, and full-stack applications
+- ☁️ Working across AWS, GCP, and cloud infrastructure
+- 🎓 Georgia Tech M.S. in Computer Science, specializing in Machine Learning
+- 📜 [Google Cloud Professional ML Engineer](https://www.credly.com/badges/3eefdad4-d46f-4987-8cb1-8b48b3617c70) · [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/63ce69a0724442d4b3abf45da5673580)
+- 🖥️ Homelab tinkerer — Proxmox VE, Unraid, containers, and networking
+- 🐈‍⬛ Cat dad · ☕ Coffee enthusiast · 🎮 Gamer
 
-# Hello! I'm Aditya. 
-### You can call me Adi. 
+## Projects & open source
 
-I'm a software engineer. 
+- [PayInvestigator](https://github.com/adityataps/vista-hackathon-26-lite) — Multi-agent payment exception triage with human approval. LangGraph, Bedrock, FastAPI, React.
+- [Clanker Gauntlet](https://github.com/adityataps/clanker-gauntlet) — AI vs. human fantasy sports simulations. Python, Claude, PostgreSQL, Redis.
+- [Personal portfolio](https://github.com/adityataps/tapshalkar.com) — Knowledge graph + conversational AI. Next.js, FastAPI, Claude, GCP.
+- [Core infrastructure](https://github.com/adityataps/core-infra) — Terraform for GCP project baselines, IAM, and budgets.
+- [SQL knowledge graph](https://github.com/adityataps/sql-knowledge-graph) — Conversational analytics through database graph traversal (WIP).
+- [Immich GPU setup](https://github.com/community-scripts/ProxmoxVE/discussions/8193#discussion-8998596) — Community guide to NVIDIA transcoding and ML on Proxmox.
 
-About me:
-- 🛠️ Proficient in with Data, ML, Cloud Architecture, and Full-Stack engineering
-- 🌱 [GCP PMLE](https://www.credly.com/badges/3eefdad4-d46f-4987-8cb1-8b48b3617c70) and [AWS Cloud](https://cp.certmetrics.com/amazon/en/public/verify/credential/63ce69a0724442d4b3abf45da5673580) Practitioner certified
-- ⚡️ Always eager to work on cutting-edge tech and architecting software and systems from scratch
-- 🐈‍⬛ Proud cat dad of two cute kitties (Sylvie and Angie)
-- ☕️ Caffeine junkie
-- 👾 Avid gamer
+## Stack
 
-Reach me at aditya (at) tapshalkar.com
+- **AI & data:** Python, SQL, Claude, AWS Bedrock, LangGraph, PostgreSQL
+- **Full stack:** TypeScript, React, Next.js, FastAPI
+- **Infrastructure:** AWS, GCP, Terraform, Docker, GitHub Actions
 
-https://aditya.tapshalkar.com/
+## Connect
 
-https://adityahome.notion.site/
-
-Also on GitHub as 
-- [@atapshalkar-eightfold](https://github.com/atapshalkar-eightfold)
-- [@adi-apptega](https://github.com/adi-apptega)
-- [@Aditya-Tapshalkar (Global Payments)](https://github.globalpay.com/Aditya-Tapshalkar)
-- [@Aditya-Tapshalkar_glpay (Global Payments)](https://github.com/aditya-tapshalkar_glpay)
-
-GitHub Open-Source Highlights:
-- [NVIDIA GPU setup for Immich transcoding and ML](https://github.com/community-scripts/ProxmoxVE/discussions/8193#discussion-8998596)
+[LinkedIn](https://www.linkedin.com/in/adityatapshalkar/) · [Website](https://aditya.tapshalkar.com/) · [Notes](https://adityahome.notion.site/) · [Email](mailto:aditya@tapshalkar.com)
